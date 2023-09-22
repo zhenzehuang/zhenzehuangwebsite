@@ -1,5 +1,5 @@
 ---
-title: "zhenzehuang"
+title: "Zhenze Huang"
 ---
 
 This is a Quarto website.
