@@ -10,9 +10,9 @@ title: "Zhenze Huang"
 
 ```{r}
 #add Zhenze's profile picture
-("![Portrait](/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.png)")
-
+"![Zhenze](`/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.png`)"
 ```
+
 
 Welcome to my page! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
 
