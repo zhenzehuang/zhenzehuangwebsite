@@ -12,6 +12,8 @@ website:
         text: Research
       - href: https://jkbirnir.github.io/GVPT729B/
         text: GVPT729
+      - href: Teaching.qmd
+        text: Teaching
 
 format:
   html:
