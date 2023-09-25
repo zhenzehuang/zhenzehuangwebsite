@@ -5,12 +5,13 @@ title: "Zhenze Huang"
 社會科學是唯一的真理標準| Social science is the sole criteria for seeking truth. 
 
 ```{r}
-1 + 1
+install.packages("quarto")
+library(quarto)
 ```
 
-```{r}
-#add Zhenze's profile picture
-"![Zhenze](`/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.png`)"
+```{r, echo=FALSE}
+knitr::include_graphics("/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.png")
+
 ```
 
 
