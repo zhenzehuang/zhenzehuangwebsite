@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: vapor
     css: styles.css
     toc: true
 

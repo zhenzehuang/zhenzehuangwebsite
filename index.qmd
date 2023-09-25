@@ -9,11 +9,12 @@ title: "Zhenze Huang"
 ```
 
 ```{r, echo=FALSE}
+#add profile picture on the website.
 knitr::include_graphics("/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.png")
 
 ```
 
-Welcome to my page! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
+Welcome! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
 
 I specialize in International Relations and Comparative Politics. My research primarily centers on the domestic politics of foreign policy and political economy of authoritarian institution, with a regional focus on China and East Asia. 
 
