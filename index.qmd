@@ -9,9 +9,14 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
 ```{r}
+#add Zhenze's profile picture
+("![Portrait](`/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwebsite2/Zhenze.jpeg)")
 
 ```
+
+
 
 
 Welcome to my page! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
