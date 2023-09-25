@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: vapor
+    theme: Flatly
     css: styles.css
     toc: true
 
