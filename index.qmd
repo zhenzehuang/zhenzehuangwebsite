@@ -2,7 +2,7 @@
 title: "Zhenze Huang"
 ---
 
-社會科學是唯一的真理標準| Social science is the sole criteria for seeking truth. 
+社會科學是唯一的真理標準 | Social science is the sole criteria for seeking truth. 
 
 ```{r}
 
