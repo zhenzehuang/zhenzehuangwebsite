@@ -13,11 +13,10 @@ title: "Zhenze Huang"
 #knitr::include_graphics("/Users/zhenzehuang/Desktop/demo-github/zhenzehuangwe#bsite2/Zhenze.png")
 
 
-
 ```
 
-![Zhenze Huang](Zhenze.jpeg){width="300"}
-
+![](Zhenze.jpeg){width="300"}
+<div style='text-align:center;'>Zhenze Huang</div>
 
 Welcome! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
 
