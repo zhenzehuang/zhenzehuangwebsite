@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Curriculum Vitae.qmd
+        text: Curriculum Vitae   
       - href: Research.qmd
         text: Research
       - href: https://jkbirnir.github.io/GVPT729B/
