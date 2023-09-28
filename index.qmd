@@ -2,7 +2,7 @@
 title: "Zhenze Huang"
 ---
 
-社會科學是唯一的真理標準 | Social science is the sole criteria for seeking truth. 
+社會科學是唯一的真理標準 \| Social science is the sole criteria for seeking truth.
 
 ```{r}
 
@@ -17,12 +17,8 @@ title: "Zhenze Huang"
 
 ![](Zhenze.jpeg){width="300"}
 
-Welcome! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park. 
+Welcome to my page! My name is Zhenze Huang 黃臻澤. I am a Ph.D. student in the Department of Government and Politics at University of Maryland, College Park.
 
-I specialize in International Relations and Comparative Politics. My research primarily centers on the domestic politics of foreign policy and political economy of authoritarian institution, with a regional focus on China and East Asia. 
+I specialize in International Relations and Comparative Politics. My research primarily centers on the domestic politics of foreign policy and political economy of authoritarian institution, with a regional focus on China and East Asia.
 
-I received my B.A. degree in International Affairs and Political Science (double major) with honors from George Washington University and a M.A. degree in China Studies and International Economics from Johns Hopkins School of Advanced International Studies. 
-
-
-
-
+I received my B.A. degree in International Affairs and Political Science (double major) with honors from George Washington University and a M.A. degree in China Studies and International Economics from Johns Hopkins School of Advanced International Studies.
