@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "GVPT 729B:Final Peoject-Political Stance of Hong Kong Legislators"
 ---
 
-About this site
+Introduction
 
-```{r}
-1 + 1
+This project aims to analyze the political stances of Hong Kong Legislative Council (LegCo) members regarding the local legislation of the National Security Law ('Article 23') using textual analysis methods. Please note that this presentation only shows part of my work, focusing on capturing the key information from dependent variable in my research, the politician's political stance, from the text of the speech this politician delivered in the Legislative Council chamber.
+
+Method &. Finding
+
+I employed text analysis techniques to clean, analyze, and visually represent the speech delivered by the Secretary of Security during the 2003 session of the Hong Kong Legislative Council. The following represents my findings.
+
+1.  Here is the processed text extracted from the address, which has been compiled into a PDF document.
+
+```{r, echo=FALSE}
+#add profile picture on the website.
+knitr::include_graphics("/Users/zhenzehuang/Desktop/Applied Social Data Science/Final Project/Final Project/ProcessedText.png")
 ```
+
+2.  The following is the visualization of the most frequently words.
+
+```{r, echo=FALSE}
+#add profile picture on the website.
+knitr::include_graphics("/Users/zhenzehuang/Desktop/Applied Social Data Science/Final Project/Final Project/Diagram1.png")
+```
+
+This visualization illustrates the most frequently occurring words in the address concerning the legislation of the National Security Law. Terms like 'bill,' 'offence,' '23,' among others, are highlighted. This analysis aims to provide insights into the Secretary of Security's political stance regarding the legislation.
+
+We can also get the similar finding from the top frequent bigrams.
+
+```{r, echo=FALSE}
+#add profile picture on the website.
+knitr::include_graphics("/Users/zhenzehuang/Desktop/Applied Social Data Science/Final Project/Final Project/Bigram.png")
+```
+
+Highlighted by their frequency as top 'bigrams,' the terms 'article 23' and 'national security' each appeared 12 times in the address. This recurring occurrence suggests the Secretary of Security's explicit support for the Article 23 legislation.
+
+Future Work
+
+Moving forward, I plan to expand this analysis to encompass all LegCo members, utilizing a comprehensive dataset. Currently in compilation, this dataset is anticipated to be completed within a month.

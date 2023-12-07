@@ -9,8 +9,8 @@
   {
     "objectID": "Research.html",
     "href": "Research.html",
-    "title": "About",
+    "title": "GVPT 729B:Final Peoject-Political Stance of Hong Kong Legislators",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Introduction\nThis project aims to analyze the political stances of Hong Kong Legislative Council (LegCo) members regarding the local legislation of the National Security Law (‘Article 23’) using textual analysis methods. Please note that this presentation only shows part of my work, focusing on capturing the key information from dependent variable in my research, the politician’s political stance, from the text of the speech this politician delivered in the Legislative Council chamber.\nMethod &. Finding\nI employed text analysis techniques to clean, analyze, and visually represent the speech delivered by the Secretary of Security during the 2003 session of the Hong Kong Legislative Council. The following represents my findings.\n\nHere is the processed text extracted from the address, which has been compiled into a PDF document.\n\n\n\n\n\n\n\nThe following is the visualization of the most frequently words.\n\n\n\n\n\n\nThis visualization illustrates the most frequently occurring words in the address concerning the legislation of the National Security Law. Terms like ‘bill,’ ‘offence,’ ‘23,’ among others, are highlighted. This analysis aims to provide insights into the Secretary of Security’s political stance regarding the legislation.\nWe can also get the similar finding from the top frequent bigrams.\n\n\n\n\n\nHighlighted by their frequency as top ‘bigrams,’ the terms ‘article 23’ and ‘national security’ each appeared 12 times in the address. This recurring occurrence suggests the Secretary of Security’s explicit support for the Article 23 legislation.\nFuture Work\nMoving forward, I plan to expand this analysis to encompass all LegCo members, utilizing a comprehensive dataset. Currently in compilation, this dataset is anticipated to be completed within a month."
   }
 ]
